@@ -2,3 +2,4 @@
 
 ls
 head /etc/passwd
+pwd
