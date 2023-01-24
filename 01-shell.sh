@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 ls
 head /etc/passwd
