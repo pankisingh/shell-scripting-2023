@@ -7,4 +7,4 @@ echo "hello i am Raj"
 #syntac for new line echo -e "message\n\thello"
 
 
-echo -e "/e[31mMESSADE In RED \e0m"
+echo -e "/e[31mMESSAGE In RED \e0m"
