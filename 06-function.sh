@@ -11,5 +11,8 @@ sample(){
 }
 
 a=100
-sample
+
 b=200
+
+sample
+echo first arg=$1
