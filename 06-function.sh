@@ -14,5 +14,5 @@ a=100
 
 b=200
 
-sample
-echo first arg=$1
+sample 0099
+echo first arg outside=$1
